@@ -8,3 +8,5 @@ sala_user varchar(20),
 ident varchar(30),
 primary key (user_id)
 )
+
+//columns present in the database (School)
