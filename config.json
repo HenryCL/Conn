@@ -1,0 +1,23 @@
+{
+    "database": {
+      "1662504326723": {
+        "host": "127.0.0.1",
+        "port": 3308,
+        "user": "root",
+        "authType": "default",
+        "database": "Escola",
+        "showHidden": true,
+        "includeDatabases": "Escola",
+        "dbType": "MySQL",
+        "encrypt": true,
+        "hideSystemSchema": true,
+        "savePassword": "Forever",
+        "sort": 12,
+        "esAuth": "none",
+        "global": true,
+        "timezone": "+00:00",
+        "name": "conn"
+      }
+    },
+    "$schema": "https://cweijan-cloud.oss-cn-beijing.aliyuncs.com/temp/schema.json"
+  }

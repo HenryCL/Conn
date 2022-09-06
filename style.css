@@ -1,0 +1,18 @@
+ body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient(blue, green);
+    /* background-color: blue; */
+    background-size:180vh/*180vmax, 100%*/, 180vh;
+    background-repeat: repeat-x/*, repeat-y*/, repeat;
+    background-position:initial/*, bottom*/, initial;
+}
+
+.logotipo{
+    width: 10%;
+}
+H1{
+    font-size: 30;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
